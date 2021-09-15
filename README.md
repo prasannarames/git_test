@@ -1,2 +1,2 @@
-This is my git and github project.
+This is my first git and github project.
 
